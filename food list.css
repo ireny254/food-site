@@ -31,11 +31,13 @@ a{
 img{
     width:200px ;
     height: 120px;
+
 }
-.fooditem{
+.foodlist{
     display: flex;
-    gap: 50pxx;
+    gap: 30pxx;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 .footer{
     border: 1px solid brown;

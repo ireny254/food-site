@@ -36,9 +36,10 @@ img{
     width:200px ;
     height: 120px;
 }
-food list{
+.foodlist{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 footer{
     border: 1px solid black;
